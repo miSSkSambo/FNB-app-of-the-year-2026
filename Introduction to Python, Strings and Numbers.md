@@ -73,6 +73,8 @@ python hello.py
 
 The `print()` function displays output to the terminal.
 
+<img width="1237" height="957" alt="image" src="https://github.com/user-attachments/assets/46890acc-1c75-4db3-9ac1-927e2e22c04f" />
+
 ---
 
 ## Variables and Data Types
