@@ -1,4 +1,4 @@
-# Unit 1: Introduction to Python, Strings and Numbers
+# 🐍 Python Unit 1: Introduction to Python, Strings and Numbers
 
 ## Overview
 This unit introduces the fundamentals of Python programming and how it is used to solve real-world problems. It covers setting up a Python development environment, writing and running basic Python programs, and understanding how Python stores different types of data. These concepts form the foundation for all future programming skills.
