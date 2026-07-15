@@ -87,6 +87,9 @@ Example:
 name = "Katlego"
 ```
 
+<img width="1112" height="852" alt="image" src="https://github.com/user-attachments/assets/c02f26e7-ffd7-4690-b14c-545be6e3eeee" />
+
+
 ### Basic Python Data Types
 
 | Data Type | Description | Example |
