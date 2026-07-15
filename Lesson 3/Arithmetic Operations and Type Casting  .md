@@ -1,6 +1,6 @@
 # Arithmetic Operations and Type Casting
 
-##Unit 3!
+## Unit 3!
 
 This unit introduces the mathematical operations that form the foundation of calculations in Python. You will learn how Python performs arithmetic, how numerical expressions are evaluated, and how to work with different data types when processing user input.
 
