@@ -133,6 +133,9 @@ Output:
 <class 'int'>
 ```
 
+<img width="1161" height="861" alt="image" src="https://github.com/user-attachments/assets/d1172418-4dd4-4b83-8ff0-fc7d927286cb" />
+
+
 ---
 
 ## Key Takeaways
