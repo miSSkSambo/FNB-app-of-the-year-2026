@@ -2,8 +2,6 @@
 
 ## 📖 Overview
 
-Welcome to **Unit 2**!
-
 This unit introduces the essential techniques for working with **strings** (text) in Python. Strings are one of the most commonly used data types in programming, and learning how to manipulate them is an important skill for application development.
 
 In this unit, you will learn how to:
