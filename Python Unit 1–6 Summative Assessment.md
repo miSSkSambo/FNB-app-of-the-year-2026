@@ -828,6 +828,7 @@ Correct use of `break` inside a `while` loop.
 
 ```python
 while condition:
+    statement:
     if test:
         break
 ```
