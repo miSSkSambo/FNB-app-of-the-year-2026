@@ -162,6 +162,7 @@ Output
 3
 4
 ```
+<img width="825" height="953" alt="image" src="https://github.com/user-attachments/assets/a92cbac7-6418-45ec-b8e4-db04f32bb57d" />
 
 ---
 
@@ -186,6 +187,7 @@ Output
 9
 10
 ```
+<img width="991" height="946" alt="image" src="https://github.com/user-attachments/assets/85d7d0eb-f2be-4486-9d4a-743b5b5d48d4" />
 
 ---
 
@@ -210,6 +212,7 @@ Output
 16
 18
 ```
+<img width="966" height="951" alt="image" src="https://github.com/user-attachments/assets/7a512717-f12f-4b92-9527-e964ebcdc3e4" />
 
 ---
 
@@ -234,6 +237,7 @@ Output
 2
 1
 ```
+<img width="1057" height="803" alt="image" src="https://github.com/user-attachments/assets/e9025d8b-da4e-4ba4-9aeb-f7a555ac1d6f" />
 
 ---
 
