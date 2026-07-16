@@ -577,11 +577,15 @@ Ask the user to keep entering numbers until they enter **0**.
 
 Create a list of marks and print only the marks greater than **70**.
 
+<img width="1170" height="628" alt="image" src="https://github.com/user-attachments/assets/f6acf423-7974-4817-989c-a54be754807e" />
+
 ---
 
 ## Exercise 6
 
 Count down from **20 to 1**.
+
+<img width="1032" height="942" alt="image" src="https://github.com/user-attachments/assets/747fdfca-5ccc-4c2c-be3a-1c5badccff8d" />
 
 ---
 
