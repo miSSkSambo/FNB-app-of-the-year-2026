@@ -369,7 +369,10 @@ the variable stores every element at the same time.
 
 ### ✅ Answer
 
-False
+True
+
+<img width="1013" height="315" alt="image" src="https://github.com/user-attachments/assets/28e97c0d-4424-42fc-81d0-c0a2059da757" />
+
 
 ---
 
@@ -632,7 +635,9 @@ The expression below would display text in the terminal.
 
 ### ✅ Answer
 
-False
+True
+
+<img width="1001" height="214" alt="image" src="https://github.com/user-attachments/assets/f857dc19-c993-4f40-92cd-77eb77c6cab6" />
 
 ---
 
@@ -826,6 +831,8 @@ while condition:
     if test:
         break
 ```
+
+<img width="1053" height="254" alt="image" src="https://github.com/user-attachments/assets/7ca74a3d-bf51-4c40-9406-3e9b3d2b078a" />
 
 ---
 
@@ -1028,8 +1035,9 @@ print(word[-3])
 ### ✅ Answer
 
 ```
-u
+e
 ```
+<img width="1027" height="272" alt="image" src="https://github.com/user-attachments/assets/cc081a4a-8400-4160-981d-4af6373465b6" />
 
 ---
 
