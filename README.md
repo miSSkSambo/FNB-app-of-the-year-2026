@@ -1,188 +1,264 @@
-# 📱 FNB App of the Year 2026
+# 🏆 FNB App of the Year 2026
 
-> An innovative mobile application developed as part of the **FNB App of the Year 2026** challenge.
+This repository contains my work completed during the **FNB App Academy 2026** programme. It documents my journey from learning the fundamentals of Python programming to building practical applications and ultimately developing the final project submitted for the **FNB App of the Year 2026** competition.
 
-![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
-![Kivy](https://img.shields.io/badge/Kivy-Mobile%20App-green.svg)
-![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-
----
-<img width="1877" height="915" alt="Screenshot 2026-07-16 204954" src="https://github.com/user-attachments/assets/704e90cd-00c4-4882-9c83-c480a9725677" />
-
----
-## 📖 About
-
-This project was created for the **FNB App of the Year 2026** competition. The application focuses on delivering a practical, user-friendly mobile solution that addresses real-world challenges through modern mobile development.
-
-The project demonstrates:
-
-- Mobile application development
-- Python programming
-- User Interface (UI) design
-- User Experience (UX)
-- Problem-solving using technology
-- API integration
-- Data management
-
-The goal is to build an application that is simple, intuitive, scalable, and impactful.
+The repository is organised into weekly learning units, practical coding exercises, quizzes, assessments, and a final application that demonstrates the concepts learned throughout the course.
 
 ---
 
-## 🚀 Features
+# 📂 Repository Structure
 
-- 📱 Modern mobile interface
-- 🔐 Secure user authentication
-- 👤 User profile management
-- 📊 Real-time data display
-- 🌐 API integration
-- 🔍 Search functionality
-- 💾 Local data storage
-- ⚡ Fast and responsive design
-- 🎨 Clean and intuitive UI
+```
+FNB-app-of-the-year-2026
+│
+├── lesson 1
+│   ├── Introduction to Python, Strings and Numbers.md
+│   ├── Quiz.md
+│   ├── Practical Task 1
+│   └── The Challenge 1
+│
+├── lesson 2
+│   ├── String Manipulation and Formatting.md
+│   ├── Quiz.md
+│   └── Practical Task 2
+|   └── The Challenge 2
+│
+├── lesson 3
+│   ├── Arithmetic Operations and Type Casting.md
+│   ├── Quiz.md
+│   └── Practical Task 3
+|   └── The Challenge 3
+│
+├── lesson 4
+│   ├── Introduction to Storage and Access.md
+│   ├── Quiz.md
+│   └── Practical Task 4
+|   └── The Challenge 4
+│
+├── lesson 5
+│   ├── Conditional Logic and Decision Making.md
+│   ├── Quiz.md
+│   └── Practical Task 5
+|   └── The Challenge 5
+│
+├── lesson 6
+│   ├── Loops and Iteration.md
+│   ├── Quiz.md
+│   └── Practical Task 6
+|   └── The Challenge 6
+│
+├── Python Unit 1–6 Summative Assessment.md
+│
+└── Final FNB App
+```
 
 ---
 
-## 🛠️ Technologies Used
+# 📚 Course Content
 
-- Python
-- Kivy
-- KivyMD
-- REST APIs
-- JSON
-- SQLite (if applicable)
+## 🐍 Lesson 1 – Introduction to Python
+
+Learn the fundamentals of Python programming, including:
+
+- Installing Python and Visual Studio Code
+- Writing your first Python program
+- Variables
+- Data types
+- User input
+- Basic output
+- Using the `type()` function
+
+Practical examples include:
+
+- Hello World
+- Student Information
+- Variables
+- Functions
+- Concert Ticket Booker
+
+---
+
+## 🔤 Lesson 2 – String Manipulation and Formatting
+
+Explore how Python works with text by learning:
+
+- String methods
+- Indexing
+- Slicing
+- f-Strings
+- Concatenation
+- String searching
+- String formatting
+
+Students also complete practical coding exercises and quizzes.
+
+---
+
+## ➕ Lesson 3 – Arithmetic Operations and Type Casting
+
+This lesson introduces Python mathematics including:
+
+- Arithmetic operators
+- BEDMAS
+- Integer and floating-point calculations
+- Type casting
+- Number functions
+- Building calculators
+
+Projects include:
+
+- Calculator
+- Fuel Cost Calculator
+
+---
+
+## 📦 Lesson 4 – Introduction to Storage and Access
+
+Learn how Python stores collections of data using:
+
+- Lists
+- Dictionaries
+- Tuples
+- Lists of dictionaries
+- Mutable vs immutable objects
+- Iterating through collections
+
+Practical projects include:
+
+- Grade Classifier
+- Smart ATM
+
+---
+
+## 🧠 Lesson 5 – Conditional Logic and Decision Making
+
+Learn how programs make decisions using:
+
+- if statements
+- elif
+- else
+- Comparison operators
+- Logical operators
+- Truthy and falsy values
+- Membership testing with `in`
+
+Projects include:
+
+- Contact Book
+- High Score Tracker
+
+---
+
+## 🔁 Lesson 6 – Loops and Iteration
+
+Understand how repetition works in Python using:
+
+- for loops
+- while loops
+- range()
+- break
+- continue
+- Nested loops
+- Combining loops with conditions
+
+Projects include:
+
+- Grade Report
+- Phone Directory
+- Loop Exercises
+
+---
+
+# 💻 Practical Programming Projects
+
+Throughout the course several console applications were developed, including:
+
+- 🎫 Concert Ticket Booker
+- 🧮 Calculator
+- ⛽ Fuel Cost Calculator
+- 🏧 Smart ATM
+- 📚 Grade Classifier
+- 📇 Contact Book
+- 🏆 High Score Tracker
+- 📞 Phone Directory
+- 📊 Grade Report
+
+These projects reinforce the concepts taught in each lesson through hands-on programming.
+
+---
+
+# 📝 Assessments
+
+The repository also contains:
+
+- Lesson quizzes
+- Practical exercises
+- Challenge activities
+- Unit summaries
+- Python Units 1–6 Summative Assessment
+
+---
+
+# 📱 Final Project
+
+The **Final FNB App** directory contains the application developed as the final submission for the **FNB App of the Year 2026** competition.
+
+The project combines the programming concepts learned throughout the academy into a complete application.
+
+---
+
+# 🛠 Technologies Used
+
+- Python 3
+- Visual Studio Code
 - Git
 - GitHub
 
 ---
 
-## ⚙️ Installation
+# 🎯 Learning Outcomes
 
-Clone the repository
+By completing this repository, the following Python concepts were covered:
 
-```bash
-git clone https://github.com/miSSkSambo/FNB-app-of-the-year-2026.git
-```
-
-Navigate into the project
-
-```bash
-cd FNB-app-of-the-year-2026
-```
-
-Install the dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the application
-
-```bash
-python main.py
-```
-
----
-
-## 🎯 Project Objectives
-
-- Build a functional mobile application
-- Apply Python programming concepts
-- Develop an intuitive user experience
-- Demonstrate software engineering best practices
-- Solve a real-world problem through technology
-
----
-
-## 📚 Skills Demonstrated
-
-- Object-Oriented Programming
-- API Integration
-- Mobile App Development
-- UI/UX Design
-- Error Handling
-- Data Management
-- Version Control with Git
+- Variables and Data Types
+- Strings
+- User Input
+- Arithmetic Operations
+- Type Casting
+- Lists
+- Dictionaries
+- Tuples
+- Conditional Statements
+- Loops
+- Functions
 - Problem Solving
+- Console Application Development
+- Git & GitHub
 
 ---
 
-## 👥 Team
+# 📖 Resources
 
-| Name | Role |
-|------|------|
-| Katlego Sambo | Developer |
-| Team Members | Contributors |
+Each lesson contains:
 
----
+- 📚 Detailed study notes
+- 💻 Worked examples
+- 📝 Practice exercises
+- ✅ Quizzes
+- 🎯 Challenge activities
 
-## 📈 Future Improvements
-
-- Push notifications
-- Dark mode
-- Cloud database integration
-- Analytics dashboard
-- AI-powered recommendations
-- Offline functionality
-- Enhanced security
+making this repository a complete reference for beginners learning Python.
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-2. Create a feature branch
-
-```bash
-git checkout -b feature-name
-```
-
-3. Commit your changes
-
-```bash
-git commit -m "Added new feature"
-```
-
-4. Push the branch
-
-```bash
-git push origin feature-name
-```
-
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-## 🙏 Acknowledgements
-
-- FNB App of the Year
-- FNB App Academy
-- Python Community
-- Kivy Community
-- GitHub
-
----
-
-## ⭐ Support
-
-If you found this project useful, please consider giving it a ⭐ on GitHub.
-
----
-
-## 📬 Contact
+# 👤 Author
 
 **Katlego Sambo**
 
 GitHub: https://github.com/miSSkSambo
 
-Project Repository:
+---
 
-https://github.com/miSSkSambo/FNB-app-of-the-year-2026
+# ⭐ Acknowledgements
+
+Created as part of the **FNB App Academy 2026** programme and submitted towards the **FNB App of the Year 2026** competition.
