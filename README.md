@@ -9,10 +9,21 @@
 ![Issues](https://img.shields.io/github/issues/miSSkSambo/FNB-app-of-the-year-2026?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/miSSkSambo/FNB-app-of-the-year-2026?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/miSSkSambo/FNB-app-of-the-year-2026?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.13+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-Documentation-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+![Course](https://img.shields.io/badge/FNB-App%20Academy%202026-orange?style=for-the-badge)
+![Project](https://img.shields.io/badge/Final%20Project-App%20of%20the%20Year-blueviolet?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 This repository contains my work completed during the **FNB App Academy 2026** programme. It documents my journey from learning the fundamentals of Python programming to building practical applications and ultimately developing the final project submitted for the **FNB App of the Year 2026** competition.
 
 The repository is organised into weekly learning units, practical coding exercises, quizzes, assessments, and a final application that demonstrates the concepts learned throughout the course.
+
+<img width="1877" height="915" alt="Screenshot 2026-07-16 204954" src="https://github.com/user-attachments/assets/cab9b992-ee59-4913-9ce8-a751d2830bd7" />
 
 ---
 
