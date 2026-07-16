@@ -1,6 +1,6 @@
 # Unit 4: Introduction to Storage and Access
 
-## 📖 Welcome to Unit 4
+## 📖 Unit 4
 
 This unit introduces Python's core data structures for organizing and managing collections of information. You will learn how different data structures store, retrieve, and organize data efficiently for different programming tasks.
 
