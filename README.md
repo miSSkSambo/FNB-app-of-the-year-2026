@@ -1,4 +1,14 @@
+
 # 🏆 FNB App of the Year 2026
+
+![Repo Size](https://img.shields.io/github/repo-size/miSSkSambo/FNB-app-of-the-year-2026?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/miSSkSambo/FNB-app-of-the-year-2026?style=for-the-badge)
+![Top Language](https://img.shields.io/github/languages/top/miSSkSambo/FNB-app-of-the-year-2026?style=for-the-badge)
+![Language Count](https://img.shields.io/github/languages/count/miSSkSambo/FNB-app-of-the-year-2026?style=for-the-badge)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/miSSkSambo/FNB-app-of-the-year-2026?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/miSSkSambo/FNB-app-of-the-year-2026?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/miSSkSambo/FNB-app-of-the-year-2026?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/miSSkSambo/FNB-app-of-the-year-2026?style=for-the-badge)
 
 This repository contains my work completed during the **FNB App Academy 2026** programme. It documents my journey from learning the fundamentals of Python programming to building practical applications and ultimately developing the final project submitted for the **FNB App of the Year 2026** competition.
 
